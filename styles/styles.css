@@ -337,7 +337,7 @@ img {
 }
 
 .portfolio-img-container .portfolio-img {
-    width: 32%;
+    flex-basis: 32%;
     position: relative;
     transform: scale(.9);
     transition: .5s;
