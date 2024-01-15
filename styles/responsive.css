@@ -1,0 +1,201 @@
+@media screen and (max-width: 960px) {
+    .section-title {
+        font-size: 35px;
+    }
+    .hero .hero-content h2 {
+        font-size: 60px;
+    }
+    .hero-content {
+        width: 80%;
+    }
+    .offer-heading h3 {
+        font-size: 60px;
+    }
+    .party-container {
+        flex-direction: column;
+        padding: 60px 0px;
+    }
+    .party-content {
+        width: 80%;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .party-content h2 {
+        font-size: 45px;
+        line-height: 60px;
+        letter-spacing: 4.04px;
+    }
+    .place-container p {
+        font-size: 24px;
+    }
+    .best-offer-container {
+        flex-direction: column;
+    }
+    .best-offer-single {
+        width: 80%;
+        text-align: center;
+    }
+    .best-offer-img {
+        width: 60%;
+    }
+    .best-offer-img2 {
+        margin: 30px auto;
+        width: 100px;
+    }
+    .top-img .discount-img-1 {
+        left: 0%;
+        bottom: -50%;
+     }
+     .top-img .discount-img-1  {
+        position: static;
+     }
+     .discount-img-3 {
+        margin: 0 auto;
+     }
+     .top-img {
+        flex-direction: column;
+     }
+     .portfolio-img-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .portfolio-heading {
+        width: 90%;
+    }
+   
+    
+}
+@media screen and (max-width: 576px) {
+    .hero .hero-content h2 {
+        font-size: 50px;
+        line-height: 80px;
+    }
+    .hero-content {
+        width: 90%;
+    }
+    .offer-heading h3 {
+        font-size: 50px;
+    }
+    .section-title {
+        font-size: 25px;
+    }
+    .section-sub-title {
+        font-size: 14px;
+    }
+    .offer .new-year-img {
+        width: 100%;
+    }
+    .party-content {
+        width: 90%;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .party-content h2 {
+        font-size: 35px;
+        line-height: 55px;
+        letter-spacing: 3.04px;
+    }
+    
+    .party-container .party-img {
+        width: 80%;
+        margin: 0 auto;
+        padding-left: 30px;
+    }
+    .place-container p {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .best-offer-single {
+        width: 90%;
+    }
+    .discount-img-container .discount-img-3 {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .discount-img-4  {
+        display: none;
+    }
+    .discount-heading {
+        width: 90%;
+    }
+    .discount-heading h2 {
+        font-size: 55px;
+    }
+    .portfolio-img-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .subscribe-container form input {
+        border-radius: 50px;
+        padding: 17px 20px;
+        display: block;
+        margin: 20px auto;
+        width: 80%;
+    }
+    
+    .subscribe-container form button {
+        border-radius: 50px;
+        margin: 0px;
+        width: 80%;
+    }
+    .subscribe-content {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    .footer-single {
+        flex-direction: column;
+        text-align: center;
+
+    }
+    .footer-contact>ul {
+        margin: 15px 0;
+    }
+    .footer-contact>ul> li> a{
+        display: block;
+        text-align: center;
+    }
+    .footer-des {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 430px) {
+    .hero .hero-content h2 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .hero-content {
+        width: 98%;
+    }
+    .offer-heading h3 {
+        font-size: 35px;
+    }
+    .section-title {
+        font-size: 20px;
+        line-height: 2rem;
+        margin: 10px 0;
+    }
+    .party-content h2 {
+        font-size: 28px;
+        line-height: 55px;
+        letter-spacing: 2.04px;
+    }
+    .place-container p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .discount-img .discount-img-2 {
+        position: absolute;
+        top: 0%;
+        left: -50%;
+    }
+    .discount-img .discount-img-2 > img {
+     
+        width: 200px;
+    }
+    .discount-heading {
+        width: 100%;
+    }
+    .discount-heading h2 {
+        font-size: 45px;
+    }
+}
