@@ -59,7 +59,8 @@
         grid-template-columns: repeat(2, 1fr);
     }
     .portfolio-heading {
-        width: 90%;
+        width: 100%;
+        text-align: center;
     }
    
     
